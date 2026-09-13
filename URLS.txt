@@ -1,0 +1,6 @@
+v1 = 造型师豆: https://yuqinzhe.github.io/video-qr/v1/
+v2 = 可爱的小豆豆: https://yuqinzhe.github.io/video-qr/v2/
+v3 = KTV游记: https://yuqinzhe.github.io/video-qr/v3/
+v4 = 冰天雪地重塑豆豆身: https://yuqinzhe.github.io/video-qr/v4/
+v5 = 点击回到阿拉斯加民宿: https://yuqinzhe.github.io/video-qr/v5/
+v6 = 第一次过生日: https://yuqinzhe.github.io/video-qr/v6/
